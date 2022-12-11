@@ -1,0 +1,7 @@
+E:\Project\DandJ\DandJ\obj\Release\net6.0\PubTmp\Out\DandJ.exe
+E:\Project\DandJ\DandJ\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\Project\DandJ\DandJ\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\Project\DandJ\DandJ\obj\Release\net6.0\PubTmp\Out\DandJ.dll
+E:\Project\DandJ\DandJ\obj\Release\net6.0\PubTmp\Out\DandJ.deps.json
+E:\Project\DandJ\DandJ\obj\Release\net6.0\PubTmp\Out\DandJ.runtimeconfig.json
+E:\Project\DandJ\DandJ\obj\Release\net6.0\PubTmp\Out\DandJ.pdb
